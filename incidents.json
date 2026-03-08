@@ -1,0 +1,97 @@
+{"timestamp": "2026-03-04T14:46:32.209789", "attack": null, "mitre": "Unknown", "severity": "Medium", "confidence": 30}
+{"timestamp": "2026-03-04T14:46:46.488969", "attack": null, "mitre": "Unknown", "severity": "Medium", "confidence": 30}
+{"timestamp": "2026-03-04T14:46:52.125678", "attack": null, "mitre": "Unknown", "severity": "Medium", "confidence": 30}
+{"timestamp": "2026-03-04T14:47:08.910288", "attack": null, "mitre": "Unknown", "severity": "Medium", "confidence": 30}
+{"timestamp": "2026-03-04T14:47:14.749407", "attack": null, "mitre": "Unknown", "severity": "Medium", "confidence": 30}
+{"timestamp": "2026-03-04T15:02:57.228856", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:02:57.749699", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:02:58.262958", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:02:58.785948", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:02:59.300390", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:02:59.815801", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:00.333874", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:00.848490", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:01.375064", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:06.811469", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:07.330236", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:07.853632", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:08.376024", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:08.890454", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-04T15:03:09.408134", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:09.918630", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:10.442696", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:10.970003", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:11.491420", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:12.009900", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:12.530214", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:13.048539", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:13.573581", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:14.094343", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:14.609664", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:15.126128", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:15.642961", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-04T15:03:16.160405", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-08T06:11:08.398335", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:08.925281", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:09.440484", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:09.963325", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:10.482588", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:11.008453", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:11.531948", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:12.048350", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:12.570850", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:13.083495", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:13.611404", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:14.153452", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:14.674221", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:15.188759", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:15.708583", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:16.232062", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:16.760981", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:17.278758", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:17.792633", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:22.768448", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:23.300643", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:23.819897", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:24.350442", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:24.857898", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:25.377997", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:25.903228", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:26.432495", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:26.952890", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:27.479704", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:27.996775", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:28.503933", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:29.017878", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:29.535398", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:30.045111", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:30.557241", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:31.081955", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:31.587619", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:32.110571", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:32.632221", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:46.360199", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:46.885131", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:47.406313", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:47.557135", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:47.927266", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:48.077356", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:48.589750", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:48.667460", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:49.110772", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:49.202569", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:49.727408", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:50.247285", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:50.767840", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:52.497353", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:52.861859", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:53.377491", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:53.902168", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:54.157323", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 90}
+{"timestamp": "2026-03-08T06:11:54.417296", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-08T06:11:54.679902", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-08T06:11:55.212144", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-08T06:11:55.725005", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-08T06:11:56.252809", "attack": "Port Scan", "mitre": "T1046 - Network Service Discovery", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-08T06:11:56.769973", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}
+{"timestamp": "2026-03-08T06:11:57.287260", "attack": "SYN Flood", "mitre": "T1498 - Network Denial of Service", "severity": "Critical", "confidence": 100}

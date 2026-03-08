@@ -1,0 +1,38 @@
+SYN Flood attacks exploit the TCP three-way handshake by sending excessive SYN requests without completing the connection.
+This causes half-open connections and resource exhaustion on the target server.
+
+High SYN packet frequency from a single source IP may indicate a potential denial of service attempt.
+Repeated incomplete TCP handshakes are a behavioral signature of SYN Flood attacks.
+
+Port Scanning involves sending connection requests to multiple ports to identify active services.
+A high number of unique destination ports contacted within a short time window may indicate reconnaissance behavior.
+
+Attackers perform port scanning before exploitation to discover vulnerable services.
+Port scanning is often the first phase in the cyber attack lifecycle.
+
+MITRE ATT&CK T1498 represents Network Denial of Service under the Impact tactic.
+This technique aims to disrupt availability of services by overwhelming network resources.
+
+MITRE ATTACK T1046 represents Network Service Discovery under the Discovery tactic.
+This technique is used to identify listening services and exposed applications on target systems.
+
+Confidence scoring combines rule-based detection and anomaly detection to reduce false positives.
+Severity levels are determined based on weighted risk evaluation of behavioral indicators.
+
+Anomaly detection identifies deviations from normal traffic patterns without requiring labeled attack data.
+Isolation Forest detects anomalies by isolating rare behavior in feature space.
+
+Stateful tracking of IP behavior improves detection accuracy over single-packet analysis.
+Security monitoring systems rely on aggregated behavioral metrics rather than individual events.
+
+Structured JSON logging enables integration with SIEM platforms such as Splunk or ELK stack.
+Automated response simulation mimics firewall or intrusion prevention system (IPS) behavior.
+
+Denial of Service (DoS) attacks aim to make systems unavailable to legitimate users.
+Distributed Denial of Service (DDoS) attacks use multiple compromised systems to amplify impact.
+
+Reconnaissance activities are typically low-noise but high-value indicators of future attacks.
+Early detection of reconnaissance reduces likelihood of successful exploitation.
+
+Behavioral thresholds help differentiate normal traffic spikes from malicious activity.
+Security systems must balance detection sensitivity and alert fatigue.
